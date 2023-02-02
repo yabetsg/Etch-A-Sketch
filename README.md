@@ -9,4 +9,4 @@ Easy to use: The game is designed to be simple and easy to use, making it access
 The project is built using HTML, CSS, and JavaScript.
 
 ## Live Demo
-Check out the live demo: <a href="yabetsg.github.io/Etch-A-Sketch">here</a>
+Check out the live demo: <a href="https://yabetsg.github.io/Etch-A-Sketch/">here</a>
